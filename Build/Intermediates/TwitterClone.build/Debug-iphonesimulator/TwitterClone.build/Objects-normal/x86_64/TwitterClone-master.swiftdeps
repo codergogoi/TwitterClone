@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "c4154793e0d8eb885d0f733aef101fa5"
+build_time: [1528185319, 776469000]
+inputs:
+  "/Volumes/PROJECTS/OTHER/IOS_Practise/TwitterClone/TwitterClone/Helpers/AnimationExtensions.swift": [1528183704, 0]
+  "/Volumes/PROJECTS/OTHER/IOS_Practise/TwitterClone/TwitterClone/HomeViewController/HomeViewModel.swift": [1528184357, 0]
+  "/Volumes/PROJECTS/OTHER/IOS_Practise/TwitterClone/TwitterClone/Helpers/AppColors.swift": [1528184818, 0]
+  "/Volumes/PROJECTS/OTHER/IOS_Practise/TwitterClone/TwitterClone/Helpers/GenericExtensions.swift": [1528182588, 0]
+  "/Volumes/PROJECTS/OTHER/IOS_Practise/TwitterClone/TwitterClone/HomeViewController/HomeViewController.swift": [1528185294, 0]
+  "/Volumes/PROJECTS/OTHER/IOS_Practise/TwitterClone/TwitterClone/Components/TwitterTextField.swift": [1528182792, 0]
+  "/Volumes/PROJECTS/OTHER/IOS_Practise/TwitterClone/TwitterClone/Components/TwitterButton.swift": [1528184957, 0]
+  "/Volumes/PROJECTS/OTHER/IOS_Practise/TwitterClone/TwitterClone/LoginViewController/LoginViewController.swift": [1528185319, 0]
+  "/Volumes/PROJECTS/OTHER/IOS_Practise/TwitterClone/TwitterClone/AppDelegate.swift": [1528183849, 0]
